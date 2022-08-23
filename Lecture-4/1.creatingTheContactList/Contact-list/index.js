@@ -38,6 +38,7 @@ app.listen(port, function (err) {
     console.log("Error in running the server", err);
   }
   console.log("Yup!My Server is running on Port", port);
-});
+})
+;
 
 
